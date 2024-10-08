@@ -3,8 +3,14 @@ Hi 👋 My name is Roman Nadein
 Junior PHP-developer
 --------------------
 
-I am a beginner backend developer with experience in delivering several projects showcasing my skills in PHP and JavaScript. I’ve worked with algorithms, tree data structures, set up CI/CD automation, and write unit tests to ensure code stability. I am a fast learner, well-organized, and eager to apply my knowledge to solve challenging tasks. I am ready to contribute to your team and grow together with it.* 🌍  I'm based in Moscow*
+I am a beginner backend developer with experience in delivering several projects showcasing my skills in PHP and JavaScript. I’ve worked with algorithms, tree data structures, set up CI/CD automation, and write unit tests to ensure code stability. I am a fast learner, well-organized, and eager to apply my knowledge to solve challenging tasks. I am ready to contribute to your team and grow together with it.
+
+* 🌍  I'm based in Moscow*
+
 ### You can contact me:
+[<img align="left" width="40px" height="40px" src="images/gmail.svg" />][mail]
+[<img align="left" width="40px" height="40px" src="images/whatsapp.svg" />][whatsapp]
+[<img align="left" width="40px" height="40px" src="images/telegram.svg" />][telegram]
 - e-mail: rnik82@mail.ru
 - Telegram: @rn108
 
@@ -27,3 +33,7 @@ I am a beginner backend developer with experience in delivering several projects
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/rnik82/https://github.com/rnik82/project-lvl1-s508" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/project-lvl1-s508&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rnik82/https://github.com/rnik82/frontend-project-lvl2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/frontend-project-lvl2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+[mail]: rnik82@mail.ru
+[telegram]: https://t.me/rn108
+[whatsapp]: https://wa.me/79264963616

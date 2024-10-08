@@ -1,4 +1,4 @@
-Hi 👋 My name is Roman Nadein
+Hi 👋 My name is Roman
 =============================
 Junior PHP-developer
 --------------------

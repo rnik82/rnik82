@@ -11,7 +11,7 @@ I am a beginner backend developer with experience in delivering several projects
 - [PHP-разработчик](https://cv.hexlet.io/ru/resumes/9567)
 
 ### You can contact me:
-- [e-mail](rnik82@mail.ru)
+- E-mail: rnik82@mail.ru
 - [Telegram](https://t.me/rn108)
 - [Whatsapp](https://wa.me/79264963616)
 

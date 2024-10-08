@@ -6,7 +6,7 @@ Junior PHP-developer
 I am a beginner backend developer with experience in delivering several projects showcasing my skills in PHP and JavaScript. I’ve worked with algorithms, tree data structures, set up CI/CD automation, and write unit tests to ensure code stability. I am a fast learner, well-organized, and eager to apply my knowledge to solve challenging tasks. I am ready to contribute to your team and grow together with it.
 
 🌍  I'm based in Moscow
-
+<base target="_blank">
 ### My CV
 - <a href="https://cv.hexlet.io/ru/resumes/9567" target="_blank">PHP-developer</a>
 

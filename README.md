@@ -12,8 +12,9 @@ I am a beginner backend developer with experience in delivering several projects
 
 ### You can contact me:
 - rnik82@mail.ru
-- [Telegram](https://t.me/rn108){:target="_blank"}
-- [Whatsapp](https://wa.me/79264963616){:target="_blank"}
+- [Telegram](https://t.me/rn108)
+- <a href="http://https://t.me/rn108" target="_blank">Telegram</a>
+- [Whatsapp](https://wa.me/79264963616)
 
 ### Skills
 
@@ -24,5 +25,5 @@ I am a beginner backend developer with experience in delivering several projects
 - Programming school Hexlet, 05.2024 - now
 - Moscow State University of Printing Arts of Ivan Fedorov, 2000 - 2005
 
-### 👩‍💻 My [profile](https://ru.hexlet.io/u/r108){:target="_blank"} on Hexlet
+### 👩‍💻 My [profile](https://ru.hexlet.io/u/r108) on Hexlet
 

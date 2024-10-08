@@ -8,7 +8,7 @@ I am a beginner backend developer with experience in delivering several projects
 🌍  I'm based in Moscow
 
 ### My CV
-- <a href="https://cv.hexlet.io/ru/resumes/9567" target="_blank">PHP-developer</a>
+- <a href="cv.hexlet.io/ru/resumes/9567" target="_blank">PHP-developer</a>
 
 ### You can contact me:
 - rnik82@mail.ru

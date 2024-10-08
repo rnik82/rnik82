@@ -8,12 +8,12 @@ I am a beginner backend developer with experience in delivering several projects
 🌍  I'm based in Moscow
 
 ### My CV
-- [PHP-разработчик](https://cv.hexlet.io/ru/resumes/9567)
+- [PHP-разработчик](https://cv.hexlet.io/ru/resumes/9567){:target="_blank"}
 
 ### You can contact me:
 - rnik82@mail.ru
-- [Telegram](https://t.me/rn108)
-- [Whatsapp](https://wa.me/79264963616)
+- [Telegram](https://t.me/rn108){:target="_blank"}
+- [Whatsapp](https://wa.me/79264963616){:target="_blank"}
 
 ### Skills
 
@@ -24,5 +24,5 @@ I am a beginner backend developer with experience in delivering several projects
 - Programming school Hexlet, 05.2024 - now
 - Moscow State University of Printing Arts of Ivan Fedorov, 2000 - 2005
 
-### 👩‍💻 My [profile](https://ru.hexlet.io/u/r108) on Hexlet
+### 👩‍💻 My [profile](https://ru.hexlet.io/u/r108){:target="_blank"} on Hexlet
 

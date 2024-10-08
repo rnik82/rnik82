@@ -26,12 +26,3 @@ I am a beginner backend developer with experience in delivering several projects
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/rnik82"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=rnik82&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/rnik82/https://github.com/rnik82/brain-games" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/brain-games&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rnik82/https://github.com/rnik82/gendiff" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/gendiff&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/rnik82/https://github.com/rnik82/project-lvl1-s508" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/project-lvl1-s508&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rnik82/https://github.com/rnik82/frontend-project-lvl2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/frontend-project-lvl2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-

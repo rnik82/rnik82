@@ -7,12 +7,13 @@ I am a beginner backend developer with experience in delivering several projects
 
 * 🌍  I'm based in Moscow*
 
+### My CV
+- [PHP-разработчик](https://cv.hexlet.io/ru/resumes/9567)
+
 ### You can contact me:
-[<img align="left" width="40px" height="40px" src="images/gmail.svg" />][mail]
-[<img align="left" width="40px" height="40px" src="images/whatsapp.svg" />][whatsapp]
-[<img align="left" width="40px" height="40px" src="images/telegram.svg" />][telegram]
-- e-mail: rnik82@mail.ru
-- Telegram: @rn108
+- [e-mail](rnik82@mail.ru)
+- [Telegram](https://t.me/rn108)
+- [Whatsapp](https://wa.me/79264963616)
 
 ### Skills
 
@@ -34,6 +35,3 @@ I am a beginner backend developer with experience in delivering several projects
 
 <div width="100%" align="center"><a href="https://github.com/rnik82/https://github.com/rnik82/project-lvl1-s508" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/project-lvl1-s508&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/rnik82/https://github.com/rnik82/frontend-project-lvl2" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=rnik82&repo=https://github.com/rnik82/frontend-project-lvl2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
 
-[mail]: rnik82@mail.ru
-[telegram]: https://t.me/rn108
-[whatsapp]: https://wa.me/79264963616

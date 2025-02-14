@@ -24,7 +24,7 @@ I am a beginner backend developer with experience in delivering several projects
 
 * [Brain Games](https://github.com/rnik82/brain-games) - a set of five console games based on the principle of popular mobile brain-boosting applications. Each game asks questions that need to be answered correctly. After three correct answers, it is considered that the game is over. Incorrect answers end the game and offer to go through it again.  
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
-* [Difference Calculator](https://github.com/rnik82/gendiff) - a program that defines the difference between two data structures. This is a popular task, for which there are many online services, for example: [JSON Diff](https://www.jsondiff.com/).
+* [Difference Calculator](https://github.com/rnik82/gendiff) - a program that defines the difference between two data structures. This is a popular task, for which there are many online services, for example: [JSON Diff](https://www.jsondiff.com/).  
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate, Docopt.*
 * [Page Analyzer](https://github.com/rnik82/php-project-9) - this is a site that analyzes the specified pages for SEO suitability, similar to [PageSpeed Insights](https://pagespeed.web.dev/). The page Analyzer is a full-fledged application based on the Slim framework. Here, the basic principles of building modern websites on the MVC architecture are worked out: working with routing, query handlers and a template engine, interacting with a database.  
   *Stack: PHP, Git, Composer, Slim, PostgreSQL, Bootstrap, Github Actions, CodeClimate.*

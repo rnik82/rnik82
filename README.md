@@ -3,17 +3,13 @@ Hi 👋 My name is Roman 💻
 PHP-developer 💎
 --------------------
 
-I am a backend developer with experience in delivering several projects showcasing my skills in PHP and JavaScript. I’ve worked with algorithms, tree data structures, set up CI/CD automation, and write unit tests to ensure code stability. I am a fast learner, well-organized, and eager to apply my knowledge to solve challenging tasks. I am ready to contribute to your team and grow together with it.
+I am a backend developer with experience in delivering several projects showcasing my skills in PHP and JavaScript. I’ve worked with algorithms, tree data structures, set up CI/CD automation, and write unit tests to ensure code stability. I am a fast learner, well-organized, and eager to apply my knowledge to solve challenging tasks.
 
 🌍  I'm based in Moscow
-
-📋 [Resume on HeadHunter](https://hh.ru/resume/2ebb0dccff018a82390039ed1f42707a566c70)
-📋 [Resume on Hexlet CV](https://cv.hexlet.io/ru/resumes/9567)
 
 ### You can contact me:
 - rnik82@mail.ru
 - <a href="https://t.me/rn108" target="_blank">Telegram</a>
-- <a href="https://wa.me/79264963616" target="_blank">Whatsapp</a>
 
 ### Skills
 
@@ -32,7 +28,7 @@ I am a backend developer with experience in delivering several projects showcasi
   *Stack: PHP, Git, Composer, Github Actions, CodeClimate.*
 
 ### Education
-- Programming school Hexlet, 05.2024 - now
+- Programming school Hexlet, 05.2024 - 07.2025
 - Moscow State University of Printing Arts of Ivan Fedorov, 2000 - 2005
 
 ### 👩‍💻 My <a href="https://ru.hexlet.io/u/r108" target="_blank">profile</a> on Hexlet
